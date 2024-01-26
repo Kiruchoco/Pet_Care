@@ -4,13 +4,13 @@
 반려동물 케어 시스템
 
 ## 사용언어 및 개발환경
-[사용언어] C, HTML, CSS, JavaScript, PHP, SQL
-[개발환경] 
-- Vim, Visualstudio
-- Apache web Server
-- MySQL Database Server
-- Raspberry Pi B+
-- Rasbian Linux
+- 사용언어 : C, HTML, CSS, JavaScript, PHP, SQL
+- 개발환경
+  - Vim, Visualstudio
+  - Apache web Server
+  - MySQL Database Server
+  - Raspberry Pi B+
+  - Rasbian Linux
 
 ## 주요 기능
 - 자동 수위 조절 시스템
