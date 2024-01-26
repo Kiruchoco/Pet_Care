@@ -6,8 +6,8 @@
 ## 사용언어 및 개발환경
 - 사용언어 : C, HTML, CSS, JavaScript, PHP, SQL
 - 개발환경
-  - Vim, Visualstudio
-  - Apache web Server
+  - Vim, Visual Studio Code
+  - Apache Web Server
   - MySQL Database Server
   - Raspberry Pi B+
   - Rasbian Linux
